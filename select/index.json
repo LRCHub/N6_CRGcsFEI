@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "タカラモノ",
+  "base_artist": "ClariS",
+  "createdAt": "2026-03-06T15:51:27.401997Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "タカラモノ~この声がなくなるまで~",
+      "artist": "Naoto Intiraymi",
+      "has_synced": true,
+      "path": "select/01_タカラモノ~この声がなくなるまで~_Naoto_Intiraymi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "タカラモノ~この声がなくなるまで~",
+      "artist": "Naoto Inti Raymi",
+      "has_synced": true,
+      "path": "select/02_タカラモノ~この声がなくなるまで~_Naoto_Inti_Raymi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "タカラモノ",
+      "artist": "GARNiDELiA",
+      "has_synced": true,
+      "path": "select/03_タカラモノ_GARNiDELiA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "タカラモノ",
+      "artist": "HIRAIDAI",
+      "has_synced": true,
+      "path": "select/04_タカラモノ_HIRAIDAI.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "タカラモノ～この声がなくなるまで～",
+      "artist": "Naoto Inti Raymi",
+      "has_synced": true,
+      "path": "select/05_タカラモノ~この声がなくなるまで~_Naoto_Inti_Raymi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "タカラモノ",
+      "artist": "GARNiDELiA",
+      "has_synced": true,
+      "path": "select/06_タカラモノ_GARNiDELiA.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "タカラモノ～この声がなくなるまで～",
+      "artist": "ナオト・インティライミ",
+      "has_synced": true,
+      "path": "select/07_タカラモノ~この声がなくなるまで~_ナオト・インティライミ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "タカラモノ～この声がなくなるまで～ - Takaramono - Konokoega Nakunarumade -",
+      "artist": "Naoto",
+      "has_synced": true,
+      "path": "select/08_タカラモノ~この声がなくなるまで~_-_Takaramono_-_Konokoega_Nakunarumade_-_Naoto.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "タカラモノ",
+      "artist": "イオナ(CV:渕上舞)",
+      "has_synced": false,
+      "path": "select/09_タカラモノ_イオナ(CV_渕上舞).txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "タカラモノ ～この声がなくなるまで～",
+      "artist": "ナオト・インティライミ",
+      "has_synced": false,
+      "path": "select/10_タカラモノ_~この声がなくなるまで~_ナオト・インティライミ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "タカラモノ",
+      "artist": "ClariS",
+      "has_synced": false,
+      "path": "select/pl_01_タカラモノ_ClariS.txt"
+    }
+  ]
+}
